@@ -1,8 +1,8 @@
 {
-	"ip": "YOUR_SERVER_IP",
-	"port": "YOUR_SERVER_PORT",
-	"version": "YOUR_SERVER_VERSION",
-	"username": "NoNameBot",
+	"ip": "bulsharkysmp1.aternos.me",
+	"port": " 58955",
+	"version": "1.20.1",
+	"username": "Staff",
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
